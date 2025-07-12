@@ -42,12 +42,6 @@ This database supports the following **core functionalities**:
 
 ## 🧱 Database Structure
 
-### Included Files:
-- `schema.sql`: SQL code to create all tables, primary keys, and foreign keys
-- `data.sql`: Sample insert statements to populate the database
-- `queries.sql`: Useful SQL queries to explore data (e.g. progress tracking, top workouts)
-- `ER_Diagram.png`: A visual representation of the entire schema and relationships
-
 ### Tables:
 - `users`
 - `trainers`
@@ -87,7 +81,7 @@ This project is useful for:
 
 ## 🙋‍♀️ About the Author
 
-Made with ❤️ by **Visha Sitapara**  
+Made with ❤️ by **Visha Sitapara**  and team
 🔗 [GitHub Profile](https://github.com/VishaSitapara)
 
 ---
